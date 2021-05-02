@@ -45,7 +45,8 @@ class AppTheme {
 
 /* AppTheme Notifier */
 
-final appThemeStateProvider = StateNotifierProvider<AppThemeNotifier>((ref) {
+final appThemeStateProvider =
+    StateNotifierProvider<AppThemeNotifier, bool>((ref) {
   final _isDarkModeEnabled =
       ref.read(sharedUtilityProvider).isDarkModeEnabled();
   return AppThemeNotifier(_isDarkModeEnabled);
