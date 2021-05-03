@@ -1,8 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:places_autocomplete/home_page_widget.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:places_autocomplete/example_page_widget.dart';
+
+//Please generate your Access-Token from here https://docs.mapbox.com/help/glossary/access-token/
 
 void main() {
-  runApp(MyApp());
+  runApp(
+    ProviderScope(
+      child: MyApp(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -12,9 +19,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.grey,
       ),
-      home: HomePageWidget(),
+      home: ExamplePageWidget(),
     );
   }
 }
