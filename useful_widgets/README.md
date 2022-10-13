@@ -4,4 +4,13 @@ Collection of new widgets.
 
 ## Getting Started
 
-Change the Widget names in `main.dart` and check the output.
+Use the following Widget names in `main.dart` and to see differnt widgets
+
+MyHomePage(title: 'Flutter Ahmedabad')
+DemoExactAssetsImages()
+DemoStatefulBuilder()
+DemoFractionallySizedBox()
+DemoNavigationRail()
+DemoImageFilter()
+DemoListWheelScrollView()
+
