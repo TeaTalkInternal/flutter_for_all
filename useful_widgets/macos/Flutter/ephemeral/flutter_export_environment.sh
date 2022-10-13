@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/kevin.saldanha/flutter_development/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/kevin.saldanha/Documents/teatalk_workspace/flutter_for_all/new_widgets"
+export "FLUTTER_APPLICATION_PATH=/Users/kevin.saldanha/Documents/teatalk_workspace/flutter_for_all/useful_widgets"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
