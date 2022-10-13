@@ -6,11 +6,14 @@ Collection of new widgets.
 
 Use the following Widget names in `main.dart` and to see differnt widgets
 
-MyHomePage(title: 'Flutter Ahmedabad')
-DemoExactAssetsImages()
-DemoStatefulBuilder()
-DemoFractionallySizedBox()
-DemoNavigationRail()
-DemoImageFilter()
-DemoListWheelScrollView()
+
+## Widgets
+
+- MyHomePage(title: 'Flutter Ahmedabad')
+- DemoExactAssetsImages()
+- DemoStatefulBuilder()
+- DemoFractionallySizedBox()
+- DemoNavigationRail()
+- DemoImageFilter()
+- DemoListWheelScrollView()
 
