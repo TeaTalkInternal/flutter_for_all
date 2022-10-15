@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:new_widgets/widgets/demo_navigation_rail.dart';
 import 'package:new_widgets/widgets/demo_outline_decorated_container.dart';
+import 'package:new_widgets/widgets/multiple_floating_buttons.dart';
 
 import 'widgets/demo_error_widget.dart';
 
@@ -34,7 +35,21 @@ class MyApp extends StatelessWidget {
       // home: const DemoNavigationRail(),
       // home: const DemoImageFilter(),
       // home: const DemoListWheelScrollView(),
-      home: const DemoOutlineDecoratedContanier(),
+       home: const DemoOutlineDecoratedContanier(),
+      /*home: const ListShimmerPage(
+          containerHeight: 60.0,
+          bottomMargin: 5.0,
+          leftMargin: 10.0,
+          rightMargin: 10.0,
+          topMargin: 10.0,
+          count: 10,
+          borderRadius: 4.0,
+          shinkWap: false,
+          physics: false),*/
+      // home: const DemoImageFilter(),
+      // home: const DemoListWheelScrollView(),
+      // home: const DemoFlutterLogoWidget(),
+      // home: const MultipleFloatingButtonsWidget(),
     );
   }
 }
