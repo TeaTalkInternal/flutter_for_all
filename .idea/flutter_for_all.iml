@@ -3,18 +3,27 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/useful_widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/useful_widgets/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/useful_widgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/packages/mapbox_autocomplete_search_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/packages/mapbox_autocomplete_search_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/packages/mapbox_autocomplete_search_widget/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/theme_ninja/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/theme_ninja/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/theme_ninja/build" />
-      <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/packages/mapbox_autocomplete_search_widget/build" />
-      <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/packages/mapbox_autocomplete_search_widget/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/packages/mapbox_autocomplete_search_widget/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/useful_widgets/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/useful_widgets/build" />
-      <excludeFolder url="file://$MODULE_DIR$/useful_widgets/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/places_autocomplete/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
