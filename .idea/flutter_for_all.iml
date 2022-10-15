@@ -24,6 +24,9 @@
       <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/build" />
       <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/mobile_location_webview/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/drag_drop/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/drag_drop/build" />
+      <excludeFolder url="file://$MODULE_DIR$/drag_drop/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

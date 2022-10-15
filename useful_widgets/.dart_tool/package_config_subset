@@ -1,7 +1,7 @@
 new_widgets
 2.16
-file:///Users/admin/7Span/development/Projects/HectoberFest2022/flutter_for_all/useful_widgets/
-file:///Users/admin/7Span/development/Projects/HectoberFest2022/flutter_for_all/useful_widgets/lib/
+file:///Users/admin/7Span/development/Projects/HectoberFest2022/7Span/flutter_for_all/useful_widgets/
+file:///Users/admin/7Span/development/Projects/HectoberFest2022/7Span/flutter_for_all/useful_widgets/lib/
 async
 2.14
 file:///Users/admin/7Span/development/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.9.0/
@@ -54,6 +54,10 @@ path
 2.12
 file:///Users/admin/7Span/development/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.2/
 file:///Users/admin/7Span/development/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.2/lib/
+shimmer
+2.12
+file:///Users/admin/7Span/development/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shimmer-2.0.0/
+file:///Users/admin/7Span/development/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shimmer-2.0.0/lib/
 source_span
 2.14
 file:///Users/admin/7Span/development/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.0/
