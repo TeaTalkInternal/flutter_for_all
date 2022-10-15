@@ -34,7 +34,7 @@ class _MultipleFloatingButtonsWidgetState
     super.initState();
 
     _myAnimation = AnimationController(
-      duration: const Duration(seconds: 1),
+      duration: const Duration(milliseconds: 200),
       vsync: this,
     );
   }
