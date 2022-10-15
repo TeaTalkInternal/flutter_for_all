@@ -1,5 +1,30 @@
 import 'package:flutter/material.dart';
 
+class DemoOutlineDecoratedContanier extends StatelessWidget {
+  const DemoOutlineDecoratedContanier({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("DemoOutlineDecoratedContanier"),
+      ),
+      body: Center(
+        child: OutlineDecoratedContainer(
+          thickness: 2,
+          child: SizedBox(
+            child: Center(
+              child: Text("Sample container"),
+            ),
+            height: 40,
+            width: 250,
+          ),
+        ),
+      ),
+    );
+  }
+}
+
 class OutlineDecoratedContainer extends StatelessWidget {
   const OutlineDecoratedContainer(
       {Key? key, required this.thickness, required this.child})
@@ -15,11 +40,10 @@ class OutlineDecoratedContainer extends StatelessWidget {
         gradient: const LinearGradient(colors: [Colors.blue, Colors.red]),
       ),
       child: Container(
-        //padding: EdgeInsets.all(5),
         decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(5),
             color: Colors.white,
-            border: Border.all(color: Colors.white)),
+            border: Border.all(color: Colors.blue)),
         margin: EdgeInsets.all(thickness),
         child: OutlinedButton(
           style: ButtonStyle(

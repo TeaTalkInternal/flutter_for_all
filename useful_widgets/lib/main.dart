@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:new_widgets/widgets/demo_navigation_rail.dart';
+import 'package:new_widgets/widgets/demo_outline_decorated_container.dart';
 
 import 'widgets/demo_error_widget.dart';
 
@@ -30,9 +31,10 @@ class MyApp extends StatelessWidget {
       // home: const DemoExactAssetsImages(),
       // home: const DemoStatefulBuilder(),
       // home: const DemoFractionallySizedBox(),
-      home: const DemoNavigationRail(),
+      // home: const DemoNavigationRail(),
       // home: const DemoImageFilter(),
       // home: const DemoListWheelScrollView(),
+      home: const DemoOutlineDecoratedContanier(),
     );
   }
 }
