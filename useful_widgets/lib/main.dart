@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:new_widgets/widgets/demo_customized_shimmer_for_list.dart';
+import 'package:new_widgets/widgets/demo_navigation_rail.dart';
 import 'package:new_widgets/widgets/demo_flutter_logo_widget.dart';
-
 import 'widgets/demo_error_widget.dart';
 
 void main() {
@@ -31,9 +32,19 @@ class MyApp extends StatelessWidget {
       // home: const DemoStatefulBuilder(),
       // home: const DemoFractionallySizedBox(),
       // home: const DemoNavigationRail(),
+      home: const ListShimmerPage(
+          containerHeight: 60.0,
+          bottomMargin: 5.0,
+          leftMargin: 10.0,
+          rightMargin: 10.0,
+          topMargin: 10.0,
+          count: 10,
+          borderRadius: 4.0,
+          shinkWap: false,
+          physics: false),
       // home: const DemoImageFilter(),
       // home: const DemoListWheelScrollView(),
-      home: const DemoFlutterLogoWidget(),
+      // home: const DemoFlutterLogoWidget(),
     );
   }
 }
