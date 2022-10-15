@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+    <title>Mobile location web page</title>
+
+<script>
+function getLongitude(longitude) {
+document.getElementById("longitude").innerHTML = longitude;
+sendBack();
+}
+function getLatitude(latitude) {
+document.getElementById("latitude").innerHTML = latitude;
+sendBack();
+}
+</script>
+</head>
+<body>
+<h1>The value for longitude is:  <span id="longitude"></span></h1>
+<h1>The value for latitude is:  <span id="latitude"></span></h1>
+
+</body>
+</html>

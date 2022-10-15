@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:new_widgets/widgets/demo_customized_shimmer_for_list.dart';
 import 'package:new_widgets/widgets/demo_navigation_rail.dart';
-
+import 'package:new_widgets/widgets/demo_flutter_logo_widget.dart';
 import 'widgets/demo_error_widget.dart';
 
 void main() {
@@ -44,6 +44,7 @@ class MyApp extends StatelessWidget {
           physics: false),
       // home: const DemoImageFilter(),
       // home: const DemoListWheelScrollView(),
+      // home: const DemoFlutterLogoWidget(),
     );
   }
 }
