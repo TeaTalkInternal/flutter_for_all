@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "471050885875",
+    "project_id": "sms-man",
+    "storage_bucket": "sms-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471050885875:android:4ef0529917693f7434b586",
+        "android_client_info": {
+          "package_name": "com.example.send_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471050885875-dfj97bgakd5npvds49iq2qd6tja8mqiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsEss-HjQuyA_uCZhFdCadWsnB2-HvLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471050885875-dfj97bgakd5npvds49iq2qd6tja8mqiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471050885875-nn7sokh7psil4d87plvddqn13pretih3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tuffytiffany.smsman"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471050885875:android:50ea3c0c86d2b75234b586",
+        "android_client_info": {
+          "package_name": "com.example.sms_man"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471050885875-dfj97bgakd5npvds49iq2qd6tja8mqiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsEss-HjQuyA_uCZhFdCadWsnB2-HvLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471050885875-dfj97bgakd5npvds49iq2qd6tja8mqiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471050885875-nn7sokh7psil4d87plvddqn13pretih3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tuffytiffany.smsman"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
